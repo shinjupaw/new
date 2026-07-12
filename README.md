@@ -7,6 +7,11 @@
 ${\color{#F5E3E1}"or \color{#F0C1DF}de \color{#E9AEC3}r \space \color {#DF9CB3}up!"{}}$
 
 &emsp;
+
+<a href="https://docs.google.com/document/d/14A-J0jDBFJ_Y1m_3bOU72U1mjOxvjhUlvIYIuReMWrk/edit?usp=drivesdk">awareness doc!!</a>
+
+&emsp;
+
 <img src="https://github.com/shinjupaw/new/blob/a1a4b725854b96ffa8612c3e0641d5f7f717d06a/Untitled306_20260713001923.png" alt="Description" width="500">
 &emsp;
 

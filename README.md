@@ -25,10 +25,14 @@ ${\textsf{\color{#f0c1df} sign ata }}$ ${\textsf{\color{#EDB3D0} and check }}$ $
 <a href="https://shinjupuppy.atabook.org/"><img src="https://github.com/shinjupaw/shinjupaw/blob/4721b1e325052d9c9ffa410c8cf50cd828e67592/Untitled318_20260714175613.png" alt="Description" width="250"> <a href="https://artfight.net/~shinjupaw"><img src="https://github.com/shinjupaw/shinjupaw/blob/3f4dff52e3b5470493f6814f112b3508cc249f02/Untitled318_20260715003858.png" alt="Description" width="250">
 &emsp;
 
-${\textsf{\color{#f0c1df} my }}$ ${\textsf{\color{#EDB3D0} dear }}$ ${\textsf{\color{#E6AAC0} close }}$ ${\textsf{\color{#DC8FA6} friends ! }}$
+<details>
+
+<summary> ${\textsf{\color{#f0c1df} my }}$ ${\textsf{\color{#EDB3D0} dear }}$ ${\textsf{\color{#E6AAC0} close }}$ ${\textsf{\color{#DC8FA6} friends ! }}$ </summary>
 
 &emsp;
 <a href="https://github.com/dystortia"><img src="https://github.com/shinjupaw/shinjupaw/blob/0bafdb51fd14411095c5e65097e2d0777178abea/Untitled331_20260717175502.png" alt="Description" width="150"> <a href="https://github.com/AsahiyM3ow"><img src="https://github.com/shinjupaw/shinjupaw/blob/0bafdb51fd14411095c5e65097e2d0777178abea/Untitled331_20260717175540.png" alt="Description" width="150"> <a href="https://github.com/mvvnchkin"><img src="https://github.com/shinjupaw/shinjupaw/blob/0bafdb51fd14411095c5e65097e2d0777178abea/Untitled331_20260717175601.png" alt="Description" width="150"> <a href="https://github.com/SONNELLINOENTHUSIAST"><img src="https://github.com/shinjupaw/shinjupaw/blob/0bafdb51fd14411095c5e65097e2d0777178abea/Untitled331_20260717175617.png" alt="Description" width="150"> <a href="https://github.com/iam-mygfbunny"><img src="https://github.com/shinjupaw/shinjupaw/blob/0bafdb51fd14411095c5e65097e2d0777178abea/Untitled331_20260717175636.png" alt="Description" width="150"> <a href="https://github.com/zt4r-z"><img src="https://github.com/shinjupaw/shinjupaw/blob/0bafdb51fd14411095c5e65097e2d0777178abea/Untitled331_20260717175702.png" alt="Description" width="150"> <a href="https://github.com/Lucallislullaby"><img src="https://github.com/shinjupaw/shinjupaw/blob/0bafdb51fd14411095c5e65097e2d0777178abea/Untitled331_20260717175729.png" alt="Description" width="150">
+
+</details>
 
 &emsp;
 <img src="https://github.com/shinjupaw/new/blob/a1a4b725854b96ffa8612c3e0641d5f7f717d06a/Untitled309_20260713001619.png" alt="Description" width="1000">
